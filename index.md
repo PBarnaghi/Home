@@ -1,5 +1,5 @@
 ## Welcome to IEEE Technical Committee on Big Data
-## SIG on Big Data Intelligent Networking
+## IEEE SIG on Big Data Intelligent Networking
 Chair: Ruidong Li, National Institute of Information and Communications Technology (NICT), Japan, Email: lrd@nict.go.jp \
 Vice-Chair: Houbing Song, Embry-Riddle Aeronautical University, USA, Email: Houbing.Song@erau.edu \
 Vice-Chair: Xiaoming Fu, Gottingen University, Germany, Email: fu@cs.uni-goettingen.de \
