@@ -33,7 +33,7 @@ In summary, this SIG will focus on the technical challenges and applications of 
 •	Edge, fog, and mobile edge computing for big data \
 •	Privacy and trust management for big data networking \
 •	Authentication, authorization, accountability for big data networking \
-•	Sensor networks for big data collection \
+•	Sensor, drone, ad-hoc networks for big data collection and distribution \
 •	5G and future mobile networks for big data sharing \
 •	Performance modeling in networking for big data \
 •	Mobility and big data \
