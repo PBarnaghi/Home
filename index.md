@@ -21,6 +21,7 @@ Big data are transforming the world and open the era of the new paradigm for sci
 Regarding networking for big data, the big data mining and learning applications depend on the efficient and effective support from the underneath networking protocols. Big data are collected from small devices, processed/cached/analyzed in the network, and finally stored at the servers or clouds. The big data applications involve the data sources from different geographically distributed data centers or in-network storages. Huge amount of users efficiently and securely search, discover and fetch the big data from the data centers or in-network storages. Regarding big data analytics for networking, critical applications such as network monitoring, network security or dynamic network management require fast mechanisms for on-line analysis of thousands of events per second, as well as efficient techniques for off-line analysis of massive historical data. The applications making networking decisions (e.g. routing, caching, and security) from the ever-growing amount of measurement data is becoming a big challenge, which remains poorly understood and investigated. Furthermore, big data analytic techniques to characterize, detect, locate and analyze complex behaviors bring out much burden for networking, and thus the smart and scalable approaches must be conceived to enable them to be practical. The analysis on the network status data shows the great potential to improve the performance of networking and applications.
 
 In summary, this SIG will focus on the technical challenges and applications of networking for and by big data. We envision that the combination of big data with networking will provide more efficient support for big data applications and enable more intelligent networking applications. The areas of interests include, but are not limited to, the following:
+
 •	Networking architecture for big data  \
 •	Networking big data analysis \
 •	Machine learning, data mining and big data analytics in networking \
@@ -92,7 +93,7 @@ In summary, this SIG will focus on the technical challenges and applications of 
 35.	Kristian Skracic, Ericsson Nikola Tesla d.d., Croatia
 36.	Yingfei Dong, University of Hawaii, USA 
 37.	Hongjian Sun, Durham University, U.K. 
-38.	Bo Rong, Communications Research Centre, Canada 
+38.	Yu Jiang, Tsinghua University, China 
 39.	Jian Tang, Syracuse University, USA 
 40.	Dan Wang, Hong Kong Polytechnic University, Hongkong
 41.	Minho Jo, Korea University, Korea 
@@ -102,7 +103,8 @@ In summary, this SIG will focus on the technical challenges and applications of 
 45.	Hui Zang, Huawei Research, USA
 46.	Feng Ye, University of Dayton, USA 
 47.	Elias Bou-Harb, Florida Atlantic University, USA
-48.	Miao Pan, University of Houston, USA 
-49.	Jongwon Kim, Gwangju Institute of Science and Technology, Korea
-50.	Humphrey Rutagemwa, Communications Research Centre, Canada 
-51.	Yuki Koizumi, Osaka University, Japan
+48.	Jongwon Kim, Gwangju Institute of Science and Technology, Korea
+49.	Humphrey Rutagemwa, Communications Research Centre, Canada 
+50.	Yuki Koizumi, Osaka University, Japan
+51.	Dingde Jiang, University of Electronic Science and Technology of China, China
+52.	Miao Pan, University of Houston, USA
