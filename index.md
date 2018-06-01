@@ -38,6 +38,8 @@ In summary, this SIG will focus on the technical challenges and applications of 
 •	Performance modeling in networking for big data \
 •	Mobility and big data \
 •	Network virtualization for big data \
+•	Blockchain with big data networking \
+•	Big data analytics for blockchain \
 •	Big data for disaster-resilient networking \
 •	Data-center network for big data processing \
 •	Application of reinforced-learning for networking \
