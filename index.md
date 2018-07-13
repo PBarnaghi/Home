@@ -111,7 +111,7 @@ In summary, this SIG will focus on the technical challenges and applications of 
 51.	Dingde Jiang, University of Electronic Science and Technology of China, China
 52.	Miao Pan, University of Houston, USA
 53.	Ali M. Al-Salim, University of Leeds, U. K.
-54. Yunfei Ma, MIT
+54. Yunfei Ma, MIT, USA
 
 ### Linkedin HP: 
 https://www.linkedin.com/groups/8673834
