@@ -11,7 +11,7 @@ Advisor: Jiannong Cao, Hong Kong Polytechnic University, Hongkong, Email: csjcao
 Advisor: Hsiao-Hwa Chen, National Cheng Kung University, Taiwan, Email: hshwchen@mail.ncku.edu.tw \
 Advisor: Wenjing Lou, Virginia Tech, USA, Email: wjlou@vt.edu \
 Advisor: Chonggang Wang, Interdigital, USA, Email: cgwang@ieee.org \
-Advisor: Jie Wu, Temple University, USA, Email: wujie@temple.edu \
+Advisor: Jie Wu, Temple University, USA, Email: jiewu@temple.edu \
 Advisor: Hitoshi Asaeda, National Institute of Information and Communications Technology (NICT), Japan, Email: asaeda@nict.go.jp 
 
 ### Scope and Objectives
