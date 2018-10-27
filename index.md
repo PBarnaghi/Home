@@ -16,13 +16,14 @@ Advisor: Hitoshi Asaeda, National Institute of Information and Communications Te
 
 ### Scope and Objectives
 
-Big data are transforming the world and open the era of the new paradigm for science discovery through data-driven approach. This paradigm also brings out great influences on networking research area. The current networks are designed based on the static end-to-end design principle, and their complexity has dramatically increased in the past several decades, which hinders the efficient and intelligent provision of big data services and makes it important and challenging to design network applications based on big data. That is, both networking for big data (e.g., collection, processing, analysis, and visualization) and big data analytics for networking applications (e.g. monitoring, routing, caching, and security) show great challenges for industries and academia.
+Big data are transforming the world and open the era of the new paradigm for science discovery through data-driven approach. This paradigm also brings out great influences on networking research area. The current networks are designed based on the static end-to-end design principle, and their complexity has dramatically increased in the past several decades, which hinders the efficient and intelligent provision of big data services and makes it important and challenging to design network applications based on big data and in-network computation. That is, both networking for big data (e.g., collection, computation, analysis, and visualization) and big data analytics and in-network computation for networking applications (e.g. monitoring, routing, caching, and security) show great challenges for industries and academia.
 
 Regarding networking for big data, the big data mining and learning applications depend on the efficient and effective support from the underneath networking protocols. Big data are collected from small devices, processed/cached/analyzed in the network, and finally stored at the servers or clouds. The big data applications involve the data sources from different geographically distributed data centers or in-network storages. Huge amount of users efficiently and securely search, discover and fetch the big data from the data centers or in-network storages. Regarding big data analytics for networking, critical applications such as network monitoring, network security or dynamic network management require fast mechanisms for on-line analysis of thousands of events per second, as well as efficient techniques for off-line analysis of massive historical data. The applications making networking decisions (e.g. routing, caching, and security) from the ever-growing amount of measurement data is becoming a big challenge, which remains poorly understood and investigated. Furthermore, big data analytic techniques to characterize, detect, locate and analyze complex behaviors bring out much burden for networking, and thus the smart and scalable approaches must be conceived to enable them to be practical. The analysis on the network status data shows the great potential to improve the performance of networking and applications.
 
-In summary, this SIG will focus on the technical challenges and applications of intelligent networking for and by big data. We envision that the combination of big data with networking will provide more efficient support for big data applications and enable more intelligent networking applications. The areas of interests include, but are not limited to, the following:
+In summary, this SIG will focus on the technical challenges and applications of intelligent networking for and by big data and in-network computation. We envision that the combination of big data with networking will provide more efficient support for big data applications and enable more intelligent networking applications. The areas of interests include, but are not limited to, the following:
 
 •	Networking architecture for big data  \
+•	Big data with in-network computation \
 •	Networking big data analysis \
 •	Machine learning, data mining and big data analytics in networking \
 •	Deep learning for networking \
@@ -49,6 +50,7 @@ In summary, this SIG will focus on the technical challenges and applications of 
 •	Networking-based benchmarks for big data analysis \
 •	Machine learning for network anomaly detection and security \
 •	Network anomaly diagnosis through networking big data \
+•	In-network computation for intelligent networking \
 •	Big data analytics for network management \
 •	Distributed artificial intelligence for networking \
 •	Efficient networking for distributed artificial intelligence \
