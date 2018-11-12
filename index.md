@@ -117,3 +117,6 @@ In summary, this SIG will focus on the technical challenges and applications of 
 
 ### Linkedin HP: 
 https://www.linkedin.com/groups/8673834
+
+### Google sites: 
+https://sites.google.com/site/tcbdinieee/
