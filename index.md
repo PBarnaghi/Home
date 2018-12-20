@@ -121,5 +121,5 @@ https://www.linkedin.com/groups/8673834
 ### Google sites: 
 https://sites.google.com/site/tcbdinieee/
 
-### Statement for Petition ComSoc VP Conferences: 
+### Statement for Petition ComSoc VP Conferences (Prof. Jinsong Wu): 
 https://github.com/IEEETCBDIN/Home/blob/master/Statement.pdf
