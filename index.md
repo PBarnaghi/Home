@@ -121,5 +121,5 @@ https://www.linkedin.com/groups/8673834
 ### Google sites: 
 https://sites.google.com/site/tcbdinieee/
 
-### Test File: 
-https://github.com/IEEETCBDIN/Home/blob/master/TestFile.pdf
+### Statement for Petition ComSoc VP Conferences: 
+https://github.com/IEEETCBDIN/Home/blob/master/Statement.pdf
