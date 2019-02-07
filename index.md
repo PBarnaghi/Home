@@ -127,6 +127,7 @@ https://www.comsoc.org/publications/magazines/ieee-network/cfp/big-data-intellig
 
 ### Transactions on Emerging Telecommunications Technologies (ETT) 
 Special Issue on Intelligent Resource Management in Cloud Computing and Networking: 
+
 https://wol-prod-cdn.literatumonline.com/pb-assets/assets/21613915/Intelligent%20Resource%20Management%20in%20Cloud%20Computing%20and%20Networking.pdf
 
 ### IEEE INFOCOM 2019 Intelligent Cloud Computing and Networking (ICCN) workshop: 
