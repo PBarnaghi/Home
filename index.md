@@ -122,6 +122,10 @@ https://www.linkedin.com/groups/8673834
 https://sites.google.com/site/tcbdinieee/
 
 ---------------------------Activities-----------------------------------------------
+### ICDCS 2019 workshop on Network Meets Intelligent Computations (NMIC)
+https://www.eee.hku.hk/~kcleung/service/NMIC/2019/cfp.html
+
+
 ### IEEE Network Magazine SI on Big Data Intelligent Networking: 
 https://www.comsoc.org/publications/magazines/ieee-network/cfp/big-data-intelligent-networking
 
