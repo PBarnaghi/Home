@@ -140,6 +140,3 @@ https://icc2019.ieee-icc.org/workshop/w15-first-international-workshop-data-driv
 ### IETF/IRTF Computing in the Network (COIN): 
 https://trac.ietf.org/trac/irtf/wiki/coin
 
-------------------------Others---------------------------------------------------------
-### Statement for Petition ComSoc VP Conferences (Prof. Jinsong Wu): 
-https://github.com/IEEETCBDIN/Home/blob/master/Statement.pdf
