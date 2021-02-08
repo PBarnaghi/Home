@@ -4,7 +4,7 @@ Chair: Ruidong Li, National Institute of Information and Communications Technolo
 Vice-Chair: Houbing Song, Embry-Riddle Aeronautical University, USA, Email: houbing.song@erau.edu \
 Vice-Chair: Xiaoming Fu, Gottingen University, Germany, Email: fu@cs.uni-goettingen.de \
 Vice-Chair: Kui Wu, University of Victoria, Canada, Email: wkui@uvic.ca \
-Vice-Chair: Payam Barnaghi, University of Surrey, UK, Email: p.barnaghi@surrey.ac.uk \
+Vice-Chair: Payam Barnaghi, Imperial College London, UK, Email: p.barnaghi@imperial.ac.uk \
 Vice-Chair: Zhou Su, Shanghai University, China, Email: zhousu@ieee.org \
 Vice-Chair: Constandinos Mavromoustakis, University of Nicosia, Cyprus, Email: mavromoustakis.c@unic.ac.cy \
 Advisor: Jiannong Cao, Hong Kong Polytechnic University, Hongkong, Email: csjcao@comp.polyu.edu.hk \
@@ -76,7 +76,7 @@ In summary, this SIG will focus on the technical challenges and applications of 
 14.	Mohammad Shojafar, University of Padua, Italy 
 15.	Jinsong Wu, University of Chile, Chile
 16.	Hai Jin, Huazhong University of Science and Technology, China
-17.	Payam Barnaghi, University of Surrey, UK,
+17.	Payam Barnaghi, Imperial College London, UK,
 18.	Jiannong Cao, Hong Kong Polytechnic University, Hongkong
 19.	Wei Bao, University of Sydney, Australia
 20.	Xiaojiang Du, Temple University, USA
