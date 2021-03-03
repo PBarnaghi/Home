@@ -4,7 +4,7 @@ Chair: Ruidong Li, National Institute of Information and Communications Technolo
 Vice-Chair: Houbing Song, Embry-Riddle Aeronautical University, USA, Email: houbing.song@erau.edu \
 Vice-Chair: Xiaoming Fu, Gottingen University, Germany, Email: fu@cs.uni-goettingen.de \
 Vice-Chair: Kui Wu, University of Victoria, Canada, Email: wkui@uvic.ca \
-Vice-Chair: Payam Barnaghi, University of Surrey, UK, Email: p.barnaghi@surrey.ac.uk \
+Vice-Chair: Payam Barnaghi, Imperial College London, UK, Email: p.barnaghi@imperial.ac.uk \
 Vice-Chair: Zhou Su, Shanghai University, China, Email: zhousu@ieee.org \
 Vice-Chair: Constandinos Mavromoustakis, University of Nicosia, Cyprus, Email: mavromoustakis.c@unic.ac.cy \
 Advisor: Jiannong Cao, Hong Kong Polytechnic University, Hongkong, Email: csjcao@comp.polyu.edu.hk \
